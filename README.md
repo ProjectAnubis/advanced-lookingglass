@@ -1,0 +1,2 @@
+# advanced-lookingglass
+ Advanced Looking Glass is a production-grade, modular, and extensible platform that integrates various advanced network testing, analysis, control, and monitoring functionalities into a single solution. This project features real-time data streaming, advanced DNS operations, port scanning, speed testing, live output streaming via WebSocket, RESTful API support, JWT/OAuth2-based security, automatic alerting, and distributed architecture support.
